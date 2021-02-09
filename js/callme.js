@@ -10,7 +10,7 @@ window.addEventListener("DOMContentLoaded", function () {
   function success() {
     form.reset();
     status.classList.add("success");
-    status.innerHTML = "THANKS WE CALL GOING TO CALL YOU!!";
+    status.innerHTML = "THANKS ARE GOING TO CALL YOU!!!";
   }
 
   function error() {
